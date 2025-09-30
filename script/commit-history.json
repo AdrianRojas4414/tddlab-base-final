@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-09-30T19:45:34.000Z",
+      "message": "initial commit",
+      "url": "/commit/HEAD"
+    },
+    "stats": {
+      "total": 29945,
+      "additions": 29945,
+      "deletions": 0,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
