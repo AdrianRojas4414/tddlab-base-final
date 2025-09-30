@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "4fc9948ecb1f6c1f15b9662df0efb7e7f74e48f6",
     "author": "Luzhania Cespedes Arancibia",
     "commit": {
       "date": "2025-09-30T20:00:10.000Z",
       "message": "feat: generate the same number for one that doesn't have rules, like the 1",
-      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/4fc9948ecb1f6c1f15b9662df0efb7e7f74e48f6"
     },
     "stats": {
       "total": 37,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-09-30T20:13:20.000Z",
+      "message": "test: generate the same number for another number that doesn't have rules, like the 2",
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

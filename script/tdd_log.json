@@ -34,5 +34,27 @@
     "timestamp": 1759263098848,
     "success": true,
     "testId": 2
+  },
+  {
+    "commitId": "f278797ba569b8205296049974f64efaa1fefe53",
+    "commitName": "test: generate the same number for another number that doesn't have rules, like the 2",
+    "commitTimestamp": 1759263202072,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1759263312393,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1759263373340,
+    "success": true,
+    "testId": 3
   }
 ]
