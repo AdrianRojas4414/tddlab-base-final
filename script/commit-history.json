@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f278797ba569b8205296049974f64efaa1fefe53",
     "author": "Luzhania Cespedes Arancibia",
     "commit": {
       "date": "2025-09-30T20:13:20.000Z",
       "message": "test: generate the same number for another number that doesn't have rules, like the 2",
-      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/f278797ba569b8205296049974f64efaa1fefe53"
     },
     "stats": {
       "total": 18,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-09-30T20:17:00.000Z",
+      "message": "feat: generate Fizz for another number that is multiple of 3, like the 3",
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 31,
+      "deletions": 1,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

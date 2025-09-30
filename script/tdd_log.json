@@ -56,5 +56,27 @@
     "timestamp": 1759263373340,
     "success": true,
     "testId": 3
+  },
+  {
+    "commitId": "d64a1d18efb91a643def2564a416d3ab019e4c18",
+    "commitName": "feat: generate Fizz for another number that is multiple of 3, like the 3",
+    "commitTimestamp": 1759263422267,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1759263549449,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1759263581551,
+    "success": true,
+    "testId": 4
   }
 ]
