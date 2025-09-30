@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d64a1d18efb91a643def2564a416d3ab019e4c18",
     "author": "Luzhania Cespedes Arancibia",
     "commit": {
       "date": "2025-09-30T20:17:00.000Z",
       "message": "feat: generate Fizz for another number that is multiple of 3, like the 3",
-      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/d64a1d18efb91a643def2564a416d3ab019e4c18"
     },
     "stats": {
       "total": 32,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-09-30T20:20:58.000Z",
+      "message": "feat: generate Buzz for a number that is multiple of 5, like the 5",
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 31,
+      "deletions": 1,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
