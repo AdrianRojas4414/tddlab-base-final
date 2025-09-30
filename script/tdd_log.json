@@ -20,5 +20,19 @@
     "timestamp": 1759262338301,
     "success": true,
     "testId": 1
+  },
+  {
+    "commitId": "4fc9948ecb1f6c1f15b9662df0efb7e7f74e48f6",
+    "commitName": "feat: generate the same number for one that doesn't have rules, like the 1",
+    "commitTimestamp": 1759262411719,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1759263098848,
+    "success": true,
+    "testId": 2
   }
 ]
