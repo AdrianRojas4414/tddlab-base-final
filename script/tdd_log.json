@@ -100,5 +100,17 @@
     "timestamp": 1759263809504,
     "success": true,
     "testId": 5
+  },
+  {
+    "commitId": "87cc45c16a6b2a6054b53d670ee0add0047b3b3d",
+    "commitName": "feat: generate FizzBuzz for a number that is multiply of 3 and 5, like the 15",
+    "commitTimestamp": 1759263846741,
+    "testId": 5
+  },
+  {
+    "commitId": "26aac0c686ac43c195a8e6e12cd631a02686168b",
+    "commitName": "fix: add command 'git commit --amend --no-edit' to save lasts changes about commits and tests executation in .json files",
+    "commitTimestamp": 1760458214260,
+    "testId": 6
   }
 ]

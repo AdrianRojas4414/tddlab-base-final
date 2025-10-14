@@ -76,7 +76,7 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b4c80fc3f5eebd3947cd0cc36092cb64d744e151",
     "author": "Luzhania Cespedes Arancibia",
     "commit": {
       "date": "2025-09-30T20:20:58.000Z",
@@ -91,6 +91,44 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "87cc45c16a6b2a6054b53d670ee0add0047b3b3d",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-09-30T20:24:05.000Z",
+      "message": "feat: generate FizzBuzz for a number that is multiply of 3 and 5, like the 15",
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/87cc45c16a6b2a6054b53d670ee0add0047b3b3d"
+    },
+    "stats": {
+      "total": 43,
+      "additions": 36,
+      "deletions": 7,
+      "date": "2025-09-30"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luzhania Cespedes Arancibia",
+    "commit": {
+      "date": "2025-10-14T16:10:12.000Z",
+      "message": "fix: add command 'git commit --amend --no-edit' to save lasts changes about commits and tests executation in .json files",
+      "url": "https://github.com/luzhania/Proyecto_base_TDD_prueba/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-10-14"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
