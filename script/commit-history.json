@@ -152,16 +152,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "30229ee30daf3e297072ec8b8160ea6576ae7ddd",
     "author": "adrian",
     "commit": {
       "date": "2025-10-23T02:20:37.000Z",
       "message": "segundo",
-      "url": "https://github.com/AdrianRojas4414/tddlab-base-final/commit/HEAD"
+      "url": "https://github.com/AdrianRojas4414/tddlab-base-final/commit/30229ee30daf3e297072ec8b8160ea6576ae7ddd"
     },
     "stats": {
       "total": 8,
       "additions": 8,
+      "deletions": 0,
+      "date": "2025-10-23"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "adrian",
+    "commit": {
+      "date": "2025-10-23T02:23:15.000Z",
+      "message": "tercero",
+      "url": "https://github.com/AdrianRojas4414/tddlab-base-final/commit/HEAD"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 32,
       "deletions": 0,
       "date": "2025-10-23"
     },
